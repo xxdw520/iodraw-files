@@ -57,11 +57,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D1yIOUMRpXTzo_NBhtQT-14" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="530" y="420" width="30" height="30" as="geometry" />
+          <mxGeometry x="60" y="400" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D1yIOUMRpXTzo_NBhtQT-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="D1yIOUMRpXTzo_NBhtQT-14" parent="1">
+        <mxCell id="D1yIOUMRpXTzo_NBhtQT-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="D1yIOUMRpXTzo_NBhtQT-14" parent="1" target="D1yIOUMRpXTzo_NBhtQT-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="510" as="targetPoint" />
+            <mxPoint x="75" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
