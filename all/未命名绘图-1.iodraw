@@ -10,7 +10,7 @@
         <mxCell id="D1yIOUMRpXTzo_NBhtQT-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;滤波电容组合&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D1yIOUMRpXTzo_NBhtQT-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D1yIOUMRpXTzo_NBhtQT-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;稳压芯片&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="384" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D1yIOUMRpXTzo_NBhtQT-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
